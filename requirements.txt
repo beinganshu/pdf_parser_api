@@ -1,3 +1,4 @@
+fitz
 pytesseract
 pdf2image
 sentence_transformers
