@@ -3,6 +3,7 @@ pdf2image
 sentence_transformers
 google.generativeai
 fastapi
+faiss-cpu
 uvicorn
 python-multipart
 pydantic
